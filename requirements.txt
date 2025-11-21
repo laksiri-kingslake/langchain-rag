@@ -1,0 +1,4 @@
+ipykernel
+langchain-community 
+pypdf
+langchain-openai
